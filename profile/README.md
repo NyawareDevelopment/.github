@@ -1,5 +1,5 @@
 ## Nyaware Development Team
-**we are a cool femboy dev team working on nyaware. nya~**
+**we are a cool dev team working on nyaware. nya~**
 
 **The developers of the Nyaware modification are:**
 - catto: https://github.com/catto1337/
