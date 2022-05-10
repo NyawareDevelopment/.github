@@ -18,6 +18,6 @@
 > - **If you want to use this mod by your own than you have to contact a Team Member via Discord (link / button down below).**
 > ---
 > Community
-> - Discord [Button Counter may be not accurate!]: <br> <a href="https://discord.gg/RrTavMgGY3"><img src="https://img.shields.io/discord/943475891688853505?logo=discord" alt="Discord"/><c href="R:'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1JJR0JIODc0OXRqQTlqaGF2ajc4OUhKQjBON0hiN3NoYmhZdWRpTy9SSUdCSDg3NDl0akE5amhhdmo3ODlISkIwTjdIYjdzaGJoWXVkaU8vbWFpbi8='"></c></a>
+> - Discord [Button Counter may be not accurate!]: <br> <a href="https://discord.gg/RrTavMgGY3"><img src="https://img.shields.io/discord/973504198568210452?logo=discord" alt="Discord"/><c href="R:'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1JJR0JIODc0OXRqQTlqaGF2ajc4OUhKQjBON0hiN3NoYmhZdWRpTy9SSUdCSDg3NDl0akE5amhhdmo3ODlISkIwTjdIYjdzaGJoWXVkaU8vbWFpbi8='"></c></a>
 > - YouTube: https://www.youtube.com/c/NekoLoliUwU
 > ---
