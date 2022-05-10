@@ -4,7 +4,7 @@
 **The developers of the Nyaware modification are:**
 - catto: https://github.com/catto1337/
 - MigDEV: https://github.com/MigDEV-Weeb/
-- 
+
 <h1 align="left">Nyaware Modification</h1>
 
 **🔞 warning this modification contains nekos, femboys and cats. 🔞**
