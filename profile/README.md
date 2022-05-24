@@ -4,7 +4,6 @@
 ## 🐈 | Cats
 - <a href="https://github.com/catto1337">catto</a>
 - <a href="https://github.com/MigDEV-Weeb">migdev</a>
-- <a href="[Discord](https://discord.gg/RrTavMgGY3)">Discord</a>
-- 
+- <a href="https://discord.gg/RrTavMgGY3">Discord</a>
 ## 📁 | Features
 **The client is full of femboys, catboys & catgirls.**
