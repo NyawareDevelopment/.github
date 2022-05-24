@@ -9,4 +9,5 @@
 - <a href="https://discord.gg/RrTavMgGY3">Discord</a>
 
 ## 📁 | Features
-**The client is full of femboys, catboys & catgirls.**
+- **Bypasses**: **Our modification is designed to bypass multiple servers. It bypasses hypixel, verus, blocksmc and other anticheats. We currently have an hypixel timer & strafe disabler. **
+- **The client is full of femboys, catboys & catgirls.**
